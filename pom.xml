@@ -18,6 +18,7 @@
         <module>service-factory-user</module>
         <module>cnf-sample</module>
         <module>embed-dependency-sample</module>
+        <module>service-user</module>
     </modules>
 
     <dependencyManagement>
